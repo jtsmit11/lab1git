@@ -1,4 +1,4 @@
 lab1git
 =======
 
-Jordan Smith
+Jordan THomas Smith
